@@ -43,7 +43,7 @@ Para replicar os resultados, siga os passos abaixo:
 
 1.  Clone este repositório:
     ```bash
-    git clone (https://github.com/AndrickDev/Inadimpl-nciaProject)
+    git clone https://github.com/AndrickDev/Inadimpl-nciaProject
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
@@ -62,6 +62,6 @@ Para replicar os resultados, siga os passos abaixo:
 ## 6\. Autor
 
   * **Andrick Rodrigues**
-      * **LinkedIn:** [https://www.linkedin.com/in/seu-linkedin/](https://www.google.com/search?q=https://www.linkedin.com/in/andrick-rodrigues/)
-      * **GitHub:** [https://github.com/seu-github](https://www.google.com/search?q=https://github.com/AndrickDev)
+      * **LinkedIn:** [https://www.linkedin.com/in/andrick-rodrigues/](https://www.google.com/search?q=https://www.linkedin.com/in/andrick-rodrigues/)
+      * **GitHub:** [https://github.com/AndrickDev](https://www.google.com/search?q=https://github.com/AndrickDev)
       * **Email:** andrickneer@gmail.com
