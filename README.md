@@ -43,11 +43,11 @@ Para replicar os resultados, siga os passos abaixo:
 
 1.  Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone [https://github.com/AndrickDev/Inadimpl-nciaProject]
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd nome-do-repositorio
+    cd Inadimpl-nciaProject
     ```
 3.  Instale as dependências necessárias:
     ```bash
@@ -62,14 +62,6 @@ Para replicar os resultados, siga os passos abaixo:
 ## 6\. Autor
 
   * **Andrick Rodrigues**
-      * **LinkedIn:** [https://www.linkedin.com/in/seu-linkedin/](https://www.google.com/search?q=https://www.linkedin.com/in/seu-linkedin/)
-      * **GitHub:** [https://github.com/seu-github](https://www.google.com/search?q=https://github.com/seu-github)
+      * **LinkedIn:** [https://www.linkedin.com/in/seu-linkedin/](https://www.google.com/search?q=https://www.linkedin.com/in/andrick-rodrigues/)
+      * **GitHub:** [https://github.com/seu-github](https://www.google.com/search?q=https://github.com/AndrickDev)
       * [cite\_start]**Email:** andrickneer@gmail.com [cite: 1]
-
------
-
-**Instruções para você:**
-
-1.  Crie um novo arquivo chamado `README.md` no seu repositório do GitHub.
-2.  Copie e cole todo o texto acima nesse arquivo.
-3.  **Importante:** Não se esqueça de atualizar os links para o seu perfil do LinkedIn e GitHub na seção "Autor".
